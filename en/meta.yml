@@ -1,11 +1,9 @@
-title: unity-random-numbers
+title: Generating random numbers
 hero_image: images/banner.png
-description: unity-random-numbers description
+description: Generating random numbers
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-12-02"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Generating random numbers
