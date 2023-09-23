@@ -1,6 +1,6 @@
-Use `Random.Range(min, max)` to generate random numbers within a range.
+Utilise `Random.Range(min, max)` pour générer des nombres aléatoires à l'intérieur d'une plage.
 
-For example, you could make a GameObject move to a specific position:
+Par exemple, tu peux faire en sorte qu'un GameObject se déplace vers une position spécifique :
 
 --- code ---
 ---
