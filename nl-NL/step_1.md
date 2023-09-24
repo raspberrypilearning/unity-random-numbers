@@ -1,6 +1,6 @@
-Use `Random.Range(min, max)` to generate random numbers within a range.
+Gebruik `Random.Range(min, max)` om willekeurige getallen binnen een bereik te genereren.
 
-For example, you could make a GameObject move to a specific position:
+Je kunt bijvoorbeeld een GameObject laten verplaatsen naar een specifieke positie:
 
 --- code ---
 ---
